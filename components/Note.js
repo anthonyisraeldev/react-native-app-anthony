@@ -57,6 +57,7 @@ const styles = StyleSheet.create({
   },
   textPending: {
     textDecorationLine: "none",
+    color: "#000000",
   },
   btnDone: {
     textDecorationLine: "none",
